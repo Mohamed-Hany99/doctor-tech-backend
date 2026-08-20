@@ -1,0 +1,16 @@
+.venv/
+venv/
+backend/venv/
+
+__pycache__/
+*.pyc
+
+.env
+.env.*
+!.env.example
+
+.vscode/
+.idea/
+
+backend/.env
+*.pkl
